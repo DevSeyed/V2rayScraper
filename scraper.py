@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import shutil
+import logging
 from datetime import datetime
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
