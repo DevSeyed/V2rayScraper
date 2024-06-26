@@ -1,7 +1,7 @@
 # V2rayScraper
 
 یکی از پروژه هایی که تو اکانت قبلی 
-@mhditaheri :shipit:
+[@mhditaheri](https://github.com/mhdiTaheri/) :shipit:
 بود ولی اکانت بن شد
 
 ### روش استفاده
